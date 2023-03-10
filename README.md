@@ -1,6 +1,6 @@
 # Book-Storage Service
 
-Spring Boot application for books CRM
+Spring Boot application for books records
 
 Using:
 - Java 17
