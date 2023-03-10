@@ -1,4 +1,4 @@
-package alexey.odinochenko.booksstorage.service;
+package alexey.odinochenko.booksstorage.service.BookService;
 
 import alexey.odinochenko.booksstorage.data.entity.BookEntity;
 import alexey.odinochenko.booksstorage.exception.BookNotFoundException;

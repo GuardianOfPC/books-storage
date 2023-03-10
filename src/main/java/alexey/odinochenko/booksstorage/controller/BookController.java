@@ -4,7 +4,7 @@ import alexey.odinochenko.booksstorage.data.model.Book;
 import alexey.odinochenko.booksstorage.data.request.BookRequest;
 import alexey.odinochenko.booksstorage.exception.BookNotFoundException;
 import alexey.odinochenko.booksstorage.mapper.BookToDtoMapper;
-import alexey.odinochenko.booksstorage.service.BookService;
+import alexey.odinochenko.booksstorage.service.BookService.BookService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
